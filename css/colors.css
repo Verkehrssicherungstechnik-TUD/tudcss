@@ -1,0 +1,21 @@
+:root {
+    --tud-blau-100    : rgb(0, 37, 87);
+    --tud-blau-90     : rgb(20, 51, 103);
+    --tud-blau-80     : rgb(27, 61, 108);
+    --tud-blau-70     : rgb(43, 77, 124);
+    --tud-blau-60     : rgb(50, 84, 131);
+    --tud-blau-50     : rgb(70, 101, 143);
+    --tud-blau-40     : rgb(90, 112, 148);
+    --tud-blau-30     : rgb(132, 148, 178);
+    --tud-blau-20     : rgb(191, 201, 215);
+    --tud-blau-10     : rgb(207, 214, 225);
+    --tud-grau-100    : rgb(51, 51, 51);
+    --tud-grau-95     : rgb(102, 102, 102);
+    --tud-grau-90     : rgb(153, 153, 153);
+    --tud-grau-80     : rgb(199, 199, 199);
+    --tud-grau-70     : rgb(245, 245, 245);
+    --tud-rot-100     : rgb(181, 28, 28);
+    --tud-rot-90      : rgb(221, 39, 39);
+    --tud-link-color  : var(--tud-rot-100);
+    --tud-button-color: var(--tud-rot-90);
+}
