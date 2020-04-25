@@ -2,6 +2,8 @@
 
 TUDCSS is a set of reasources giving you a headstart when creating new websites sticking to the styleguide of the Technical University Dresden.
 
+Visit [example.html](example.html) for a preview.
+
 ## Further resources
 
 Resource | Link
