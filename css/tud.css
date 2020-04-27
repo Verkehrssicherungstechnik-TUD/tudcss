@@ -10,13 +10,11 @@ div.content {
 }
 
 div.wrapper {
-    margin-left          : 165px;
-    margin-right         : 165px;
     display              : grid;
     grid-template-columns: repeat(12, 52.5px);
     grid-auto-rows       : minmax(0px, auto);
     column-gap           : 30px;
-    row-gap              : 20px;
+    row-gap              : 30px;
 }
 
 div.header {
@@ -79,6 +77,11 @@ span.information-text {
 div.full-width {
     grid-column-start: 1;
     grid-column-end  : 13;
+}
+
+div.content-width {
+    grid-column-start: 3;
+    grid-column-end  : 11;
 }
 
 img.logo {
