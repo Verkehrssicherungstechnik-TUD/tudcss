@@ -33,7 +33,7 @@ div.footer-links {
 
 span.header-text {
     color       : white;
-    font-family: "Open Sans", serif;
+    font-family: "Open Sans", sans-serif;
     font-size   : 1rem;
     margin-right: 2rem;
 }
@@ -81,7 +81,7 @@ img.contributor-logo {
 }
 
 h1 {
-    font-family: "Open Sans", serif;
+    font-family: "Open Sans", sans-serif;
     font-weight: normal;
     font-size  : 1.6rem;
     line-height: 130%;
@@ -89,47 +89,47 @@ h1 {
 }
 
 h2 {
-    font-family: "Open Sans", serif;
+    font-family: "Open Sans", sans-serif;
     font-weight: 600;
     font-size  : 1.46rem;
     line-height: 130%;
 }
 
 h3 {
-    font-family: "Open Sans", serif;
+    font-family: "Open Sans", sans-serif;
     font-weight: 600;
     font-size  : 1.26rem;
     line-height: 130%;
 }
 
 h4 {
-    font-family: "Open Sans", serif;
+    font-family: "Open Sans", sans-serif;
     font-weight: 600;
     font-size  : 1.06rem;
     line-height: 130%;
 }
 
 h5 {
-    font-family: "Open Sans", serif;
+    font-family: "Open Sans", sans-serif;
     font-weight: 600;
     font-size  : 1rem;
     line-height: 120%;
 }
 
 p {
-    font-family: "Open Sans", serif;
+    font-family: "Open Sans", sans-serif;
     font-size  : 1rem;
     line-height: 170%;
 }
 
 figcaption {
-    font-family: "Open Sans", serif;
+    font-family: "Open Sans", sans-serif;
     font-size  : 0.8rem;
     line-height: 150%;
 }
 
 a {
-    font-family    : "Open Sans", serif;
+    font-family    : "Open Sans", sans-serif;
     font-size      : 1rem;
     line-height    : 170%;
     color          : var(--tud-link-color);
