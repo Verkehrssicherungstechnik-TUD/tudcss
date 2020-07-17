@@ -1,0 +1,50 @@
+img.logo {
+    height     : 2.4rem;
+    margin-top : 1.46rem;
+    margin-left: 11rem;
+}
+
+div.contributors {
+    margin-right: 11rem;
+    float       : right;
+    height      : 5.3rem;
+    display     : flex;
+    align-items : center;
+}
+
+div.footer {
+    background-color: var(--tud-blau-100);
+    width           : 100%;
+    height          : 15.3rem;
+}
+
+div.footer-information {
+    height     : 12.3rem;
+    width      : 20rem;
+    margin-left: 11rem;
+}
+
+div.links {
+    width       : 20rem;
+    height      : 3rem;
+    margin-right: 11rem;
+    float       : right;
+    display     : flex;
+    align-items : center;
+}
+
+span.information-text {
+    color      : white;
+    font-family: "Open Sans", serif;
+    font-size  : 0.8rem;
+    display    : inline-block;
+    margin-top : 2.13rem;
+    margin-left: 2.4rem;
+}
+
+a.footer-a {
+    color       : white;
+    font-size   : 0.8rem;
+    margin-left : auto;
+    margin-right: auto;
+}
