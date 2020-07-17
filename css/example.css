@@ -1,0 +1,19 @@
+@import url("tud.css");
+
+#grid {
+    margin-bottom: 0.66rem;
+}
+
+#A {
+    background-color : var(--tud-blau-100);
+    grid-column-start: 1;
+}
+
+#B {
+    background-color : var(--tud-blau-80);
+}
+
+#C {
+    background-color : var(--tud-blau-60);
+    grid-column-start: 5;
+}
