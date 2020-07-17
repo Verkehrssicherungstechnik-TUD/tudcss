@@ -8,8 +8,8 @@ div.contributors {
     margin-right: 1.46rem;
     float       : right;
     height      : 5.3rem;
-    display     : flex;
     align-items : center;
+    display: flex;
 }
 
 div.footer {
@@ -33,6 +33,10 @@ div.links {
     align-items : center;
 }
 
+span.header-text {
+    display: none;
+}
+
 span.information-text {
     color      : white;
     font-family: "Open Sans", serif;
@@ -47,4 +51,62 @@ a.footer-a {
     font-size   : 1rem;
     margin-left : auto;
     margin-right: auto;
+}
+
+div.wrapper {
+    display              : grid;
+    grid-template-columns: repeat(12, 5.35%);
+    grid-auto-rows       : minmax(0px, auto);
+    column-gap           : 3.05%;
+    row-gap              : 2rem;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+.s1 {
+    grid-column-end: span 1;
+}
+
+.s2 {
+    grid-column-end: span 2;
+}
+
+.s3 {
+    grid-column-end: span 3;
+}
+
+.s4 {
+    grid-column-end: span 4;
+}
+
+.s5 {
+    grid-column-end: span 5;
+}
+
+.s6 {
+    grid-column-end: span 6;
+}
+
+.s7 {
+    grid-column-end: span 7;
+}
+
+.s8 {
+    grid-column-end: span 8;
+}
+
+.s9 {
+    grid-column-end: span 9;
+}
+
+.s10 {
+    grid-column-end: span 10;
+}
+
+.s11 {
+    grid-column-end: span 11;
+}
+
+.s12 {
+    grid-column-end: span 12;
 }

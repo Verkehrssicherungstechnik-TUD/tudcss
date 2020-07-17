@@ -1,11 +1,11 @@
 img.logo {
     height     : 2.4rem;
     margin-top : 1.46rem;
-    margin-left: 11rem;
+    margin-left: 1.46rem;
 }
 
 div.contributors {
-    margin-right: 11rem;
+    margin-right: 1.46rem;
     float       : right;
     height      : 5.3rem;
     display     : flex;
@@ -15,19 +15,19 @@ div.contributors {
 div.footer {
     background-color: var(--tud-blau-100);
     width           : 100%;
-    height          : 15.3rem;
+    height          : 18.3rem;
 }
 
 div.footer-information {
-    height     : 12.3rem;
+    height     : 15.3rem;
     width      : 20rem;
-    margin-left: 11rem;
+    margin-left: 1.46rem;
 }
 
 div.links {
     width       : 20rem;
     height      : 3rem;
-    margin-right: 11rem;
+    margin-right: 1.46rem;
     float       : right;
     display     : flex;
     align-items : center;
@@ -36,7 +36,7 @@ div.links {
 span.information-text {
     color      : white;
     font-family: "Open Sans", serif;
-    font-size  : 0.8rem;
+    font-size  : 1rem;
     display    : inline-block;
     margin-top : 2.13rem;
     margin-left: 2.4rem;
@@ -44,65 +44,65 @@ span.information-text {
 
 a.footer-a {
     color       : white;
-    font-size   : 0.8rem;
+    font-size   : 1rem;
     margin-left : auto;
     margin-right: auto;
 }
 
 div.wrapper {
     display              : grid;
-    grid-template-columns: repeat(12, 5.354%);
+    grid-template-columns: repeat(12, 5.35%);
     grid-auto-rows       : minmax(0px, auto);
-    column-gap           : 3.059%;
+    column-gap           : 3.05%;
     row-gap              : 2rem;
-    margin-left: 12%;
-    margin-right: 12%;
+    margin-left: 6%;
+    margin-right: 6%;
 }
 
-.l1 {
+.m1 {
     grid-column-end: span 1;
 }
 
-.l2 {
+.m2 {
     grid-column-end: span 2;
 }
 
-.l3 {
+.m3 {
     grid-column-end: span 3;
 }
 
-.l4 {
+.m4 {
     grid-column-end: span 4;
 }
 
-.l5 {
+.m5 {
     grid-column-end: span 5;
 }
 
-.l6 {
+.m6 {
     grid-column-end: span 6;
 }
 
-.l7 {
+.m7 {
     grid-column-end: span 7;
 }
 
-.l8 {
+.m8 {
     grid-column-end: span 8;
 }
 
-.l9 {
+.m9 {
     grid-column-end: span 9;
 }
 
-.l10 {
+.m10 {
     grid-column-end: span 10;
 }
 
-.l11 {
+.m11 {
     grid-column-end: span 11;
 }
 
-.l12 {
+.m12 {
     grid-column-end: span 12;
 }
