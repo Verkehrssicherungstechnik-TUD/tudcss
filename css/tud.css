@@ -119,3 +119,35 @@ a.button {
     border-width    : 0.4rem;
     border-color    : var(--tud-button-color);
 }
+
+div.card {
+    background-color: var(--tud-grau-80);
+    position: relative;
+}
+
+div.card-image {
+    width: 100%;
+}
+
+div.card-text {
+    margin-left: 0.6rem;
+    margin-right: 0.5rem;
+    padding-bottom: 10%;
+}
+
+div.card-link {
+    border-top: 0.1rem white solid;
+    padding-top: 0.6rem;
+    padding-left: 0.6rem;
+    margin-bottom: 0.6rem;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+figure.card-figure {
+    margin-block-start: 0;
+    margin-block-end: 0;
+    margin-inline-start: 0;
+    margin-inline-end: 0;
+}

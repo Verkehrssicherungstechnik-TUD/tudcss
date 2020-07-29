@@ -17,3 +17,11 @@
     background-color : var(--tud-blau-60);
     grid-column-start: 5;
 }
+
+#example-card {
+    grid-column-start: 1;
+}
+
+#sil-logo {
+    height: 4.5rem;
+}
