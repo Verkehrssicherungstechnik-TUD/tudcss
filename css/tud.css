@@ -9,7 +9,8 @@ body {
 }
 
 div.content {
-    margin: 0.53rem;
+    margin-top: 0.53rem;
+    margin-bottom: 0.53rem;
 }
 
 div.header {
