@@ -1,0 +1,19 @@
+{
+  "name": "@verkehrssicherungstechnik-tud/tudcss",
+  "version": "1.0.0",
+  "description": "TUDCSS is a set of resources giving you a headstart when creating new websites sticking to the styleguide of the Technical University Dresden.",
+  "main": "css/tud.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github:Verkehrssicherungstechnik-TUD/tudcss"
+  },
+  "author": "Julian Fölsch <julian.foelsch@mailbox.tu-dresden.de>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Verkehrssicherungstechnik-TUD/tudcss/issues"
+  },
+  "homepage": "https://github.com/Verkehrssicherungstechnik-TUD/tudcss#readme"
+}
