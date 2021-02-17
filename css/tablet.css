@@ -12,6 +12,10 @@ div.contributors {
     align-items : center;
 }
 
+div.card-text {
+    padding-bottom: 3rem;
+}
+
 div.footer {
     background-color: var(--tud-blau-100);
     width           : 100%;
@@ -31,6 +35,10 @@ div.links {
     float       : right;
     display     : flex;
     align-items : center;
+}
+
+div.header {
+    height: 5.3rem;
 }
 
 span.information-text {

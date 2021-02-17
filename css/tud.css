@@ -14,7 +14,6 @@ div.content {
 }
 
 div.header {
-    height          : 5.3rem;
     width           : 100%;
     background-color: var(--tud-blau-100);
     align-items     : center;
@@ -133,7 +132,6 @@ div.card-image {
 div.card-text {
     margin-left: 0.6rem;
     margin-right: 0.5rem;
-    padding-bottom: 3rem;
 }
 
 div.card-link {
