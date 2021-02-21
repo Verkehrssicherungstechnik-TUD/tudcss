@@ -1,6 +1,6 @@
 {
   "name": "@verkehrssicherungstechnik-tud/tudcss",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "TUDCSS is a set of resources giving you a headstart when creating new websites sticking to the styleguide of the Technical University Dresden.",
   "main": "css/tud.css",
   "scripts": {
