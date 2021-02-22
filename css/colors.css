@@ -12,8 +12,8 @@
     --tud-grau-100    : rgb(51, 51, 51);
     --tud-grau-95     : rgb(102, 102, 102);
     --tud-grau-90     : rgb(153, 153, 153);
-    --tud-grau-80     : rgb(199, 199, 199);
-    --tud-grau-70     : rgb(245, 245, 245);
+    --tud-grau-80     : rgb(221, 221, 221);
+    --tud-grau-70     : rgb(238, 238, 238);
     --tud-rot-100     : rgb(181, 28, 28);
     --tud-rot-90      : rgb(221, 39, 39);
     --tud-link-color  : var(--tud-rot-100);
