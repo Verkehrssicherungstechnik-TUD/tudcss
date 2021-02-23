@@ -114,3 +114,25 @@ div.wrapper {
 .m12 {
     grid-column-end: span 12;
 }
+
+.vcard-content {
+    width: 100%;
+    grid-column-end: span 1;
+    margin-left: 1rem;
+}
+
+.vcard-content {
+    width: 100%;
+    grid-column-end: span 1;
+}
+
+.vcard-image {
+    width: 100%;
+    grid-column-end: span 1;
+}
+
+div.vcard-text-container {
+    border-top: 1px solid var(--tud-grau-70);
+    grid-column-start: 2;
+    grid-row-start: 2;
+}
